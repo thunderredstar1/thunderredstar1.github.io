@@ -1,24 +1,24 @@
 
 @font-face {
   font-family: 'DM Sans';
-  src: url(../fonts/DMSans-Regular.ttf);
+  src: url(../dm-sans-cufonfonts/DMSans-Regular.ttf);
 }
 
 @font-face {
   font-family: 'DM Sans';
-  src: url(../fonts/DMSans-Bold.ttf);
+  src: url(../dm-sans-cufonfonts/DMSans-Bold.ttf);
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'DM Sans';
-  src: url(../fonts/DMSans-Italic.ttf);
+  src: url(../dm-sans-cufonfonts/DMSans-Italic.ttf);
   font-style: italic, oblique;
 }
 
 @font-face {
   font-family: 'DM Sans';
-  src: url(../fonts/DMSans-Medium.ttf);
+  src: url(../dm-sans-cufonfonts/DMSans-Medium.ttf);
   font-weight: medium;
 }
 
